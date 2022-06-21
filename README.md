@@ -326,8 +326,10 @@ The following should be installed: Python3, pip, postgresql node
  
  ## Authors
   Richard Gichuki. [Find me here](https://github.com/ChadGichuki)
+  
   Udacity Staff team.
   
  ## Acknowledgements
   My ALX-T Fullstack Nanodegree Session Lead BUSUYI OWOYEMI for the weekly connect sessions.
+  
   Coach Caryn from Udacity for the amazing lessons on RESTful API development.
